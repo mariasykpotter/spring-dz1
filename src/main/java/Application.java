@@ -1,4 +1,3 @@
-import beans1.BeanA;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Application {
